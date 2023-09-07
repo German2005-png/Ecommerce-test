@@ -1,0 +1,81 @@
+{
+    "products": [
+        {
+            "id": 100,
+            "title": "Teclado gamer Asus ROG Strix Flare QWERTY Cherry MX RGB Brown inglés US color gunmetal grey con luz RGB",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_976907-MLA50895822354_072022-O.webp",
+            "precio": 181250,
+            "unidad": 1
+        },
+        {
+            "id": 200,
+            "title": "AMD Ryzen 5 5600G 100-100000252BOX",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_928642-MLA47847420037_102021-O.webp",
+            "precio": 68489,
+            "unidad": 1
+        },
+        {
+            "id": 300,
+            "title": "Motherboard Gamer Asus Rog Strix B550-a Gaming Am4 Ryzen Pc",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_843541-MLA54916683977_042023-O.webp",
+            "precio": 225137,
+            "unidad": 1
+        },
+        {
+            "id": 400,
+            "title": "Monitor gamer curvo BenQ MOBIUZ EX3410R LCD 34' negro y gris 100V/240V",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_868569-MLA53804172796_022023-O.webp",
+            "precio": 1109999,
+            "unidad": 1
+        },
+        {
+            "id": 500,
+            "title": "Apple Studio Display - Vidrio estándar - Base con inclinación ajustable",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_990193-MLA49692852330_042022-O.webp",
+            "precio": 2922449,
+            "unidad": 1
+        },
+        {
+            "id": 600,
+            "title": "Mouse Xinua M2 Inalambrico Recargable Auto Sleep Usb 2.4ghz",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_623179-MLA48917745305_012022-O.webp",
+            "precio": 6165,
+            "unidad": 1
+        },
+        {
+            "id": 700,
+            "title": "Mouse gamer de juego Redragon Griffin M607 negro",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_981372-MLA32147907497_092019-O.webp",
+            "precio": 23999,
+            "unidad": 1
+        },
+        {
+            "id": 800,
+            "title": "Gabinete Gamer Xigmatek Gaming X 6 Fanes Argb Controladora",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_821475-MLA49877449668_052022-O.webp",
+            "precio": 57000,
+            "unidad": 1
+        },
+        {
+            "id": 900,
+            "title": "Motherboard B450-plus Ii Asus Tuf Gaming Am4 Ryzen",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_668852-MLA45299438135_032021-O.webp",
+            "precio": 114999,
+            "unidad": 1
+        },
+        {
+            "id": 1000,
+            "title": "Cpu Cooler Xigmatek Windpower Wp964 Rgb Amd Intel",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_878396-MLA44001079340_112020-O.webp",
+            "precio": 18500,
+            "unidad": 1
+        },
+        {
+            "id": 1100,
+            "title": "Paquete De 2 Rejillas Filtro De Polvo Para Cooler 120 Mm",
+            "url": "https://http2.mlstatic.com/D_NQ_NP_821148-MLA48357281473_112021-O.webp",
+            "precio": 16452,
+            "unidad": 1
+        }
+    ]
+}
