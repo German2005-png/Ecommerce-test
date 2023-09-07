@@ -114,3 +114,14 @@
 .value2 h3{
     color: #3d3d3d;
 }
+@media (max-width: 700px){
+    .cart-btn button{
+        margin-right: 0px;
+    }
+    .navegation h2{
+        margin-left: 0px;
+    }
+    .navegation{
+        padding: 10px 15px;
+    }
+}
